@@ -7,7 +7,7 @@ export default function ToolsSection() {
       <h2 className="text-2xl md:text-3xl font-[200] text-gray-500">
         Reliable, efficient delivery
       </h2>
-      <h3 className="text-2xl md:text-3xl font-bold text-gray-900 mt-2">
+      <h3 className="text-3xl md:text-3xl  font-bold text-gray-900 mt-2">
         Powered by Technology
       </h3>
       <p className="text-gray-600 max-w-lg mx-auto mt-4">
