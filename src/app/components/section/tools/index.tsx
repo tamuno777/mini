@@ -15,7 +15,7 @@ export default function ToolsSection() {
         points to ensure that your project is successful
       </p>
 
-      <div className="flex flex-col lg:flex-row mx-10 gap-6 mt-10 p-4 justify-center items-center place-items-center">
+      <div className="flex flex-col lg:flex-row lg:mx-10 mx-5  gap-6 mt-10 p-4 justify-center items-center place-items-center">
         <div>
           {" "}
           <ToolCard
